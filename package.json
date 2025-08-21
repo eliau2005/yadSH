@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "pnpm --filter \"./apps/*\" dev",
-    "build": "pnpm --filter \"./packages/*\" build && pnpm --filter \"./apps/*\" build"
+    "build": "pnpm --filter public-site... build"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
